@@ -87,3 +87,15 @@ The structural safety factor is: $SF_{strength} = \frac{Y_p}{\sigma_{eq}}$.
 
 ## 🧑‍💻 Author
 *   **GitHub**: [@Nikolasmega](https://github.com/Nikolasmega)
+
+---
+
+## 💸 Support the Project
+If you find this tool useful, you can support its development with a donation. Any contribution motivates further updates and new features!
+
+**Cryptocurrency Wallet Address:** `0x9c0E67b2792aCf0c73CfB5891d58861167aD9918`
+
+**Supported Networks:** Polygon · BNB Chain
+
+Any amount is welcome and highly appreciated! 🙏
+
