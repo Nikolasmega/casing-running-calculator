@@ -1,0 +1,27 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Excel lock files
+~$*.xlsx
+
+# Backups
+*_backup.xlsx
+*_temp.xlsx
+backup/
+temp/
+
+# Python / virtual envs
+__pycache__/
+*.pyc
+.venv/
+.uv/
+.python-version
+
+# Local logs or configuration
+*.log
+.agent/
+.agents/
+.gemini/
+mcp.json
+mcp_settings.json
